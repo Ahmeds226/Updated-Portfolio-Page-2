@@ -308,6 +308,7 @@ section .title::after {
   font-weight: 500;
   margin: 10px 0 7px 0;
   color: var(--white);
+  text-decoration: underline;
 }
 .projects .carousel .card img {
   height: 300px;
