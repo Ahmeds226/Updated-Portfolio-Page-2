@@ -148,7 +148,7 @@ section .title::after {
   bottom: 10px;
   text-align: center;
   line-height: 45px;
-  color: var(--white) f;
+  color: var(--white);
   z-index: 9999;
   font-size: 30px;
   border-radius: 6px;
@@ -204,7 +204,7 @@ section .title::after {
 .home .home-content a {
   display: inline-block;
   background: var(--red);
-  color: var(--white) f;
+  color: var(--white);
   font-size: 25px;
   padding: 12px 36px;
   margin-top: 20px;
@@ -248,7 +248,7 @@ section .title::after {
 .about .about-content .right a {
   display: inline-block;
   background: var(--red);
-  color: var(--white) f;
+  color: var(--white);
   font-size: 20px;
   font-weight: 500;
   padding: 10px 30px;
@@ -264,14 +264,14 @@ section .title::after {
 
 /* Projects */
 .projects {
-  color: var(--white) f;
+  color: var(--white);
   background: var(--black);
 }
 .projects .title {
   color: var(--white);
 }
 .projects .title::before {
-  background: var(--white) f;
+  background: var(--white);
 }
 .projects .title::after {
   content: "What I've done";
@@ -319,7 +319,7 @@ section .title::after {
   transition: all 0.3s ease;
 }
 .projects .carousel .card:hover img {
-  border-color: var(--white) f;
+  border-color: var(--white);
 }
 .owl-dots {
   text-align: center;
@@ -420,7 +420,7 @@ section .title::after {
   align-items: center;
 }
 .right form .button-area button {
-  color: var(--white) f;
+  color: var(--white);
   display: block;
   width: 160px !important;
   height: 45px;
@@ -442,7 +442,7 @@ section .title::after {
 footer {
   background: var(--black);
   padding: 15px 23px;
-  color: var(--white) f;
+  color: var(--white);
   text-align: center;
 }
 footer span a {
