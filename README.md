@@ -16,4 +16,4 @@ Due to the updated portfolio, I have also updated external factors such as my Li
 
 ## Preview:
 
-<img src="./assets/images/Preview.png">
+<img src="./assets/images/Preview.png" />
