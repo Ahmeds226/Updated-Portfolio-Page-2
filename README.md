@@ -15,3 +15,5 @@ I have also updated the "my projects" section to meet the requisites for the hom
 Due to the updated portfolio, I have also updated external factors such as my LinkedIn page alongside my CV. I have also refactored some old code to make it look more readable thus making it more professional. Furthermore, I have updated my GitHub page. For example, on GitHub, I have changed my pinned repositories to include both my projects and 4 A+ graded pieces of homework.
 
 ## Preview:
+
+<img src="./assets/images/Preview.png">
