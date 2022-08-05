@@ -19,3 +19,5 @@ Due to the updated portfolio, I have also updated external factors such as my Li
 <img src="./assets/images/Preview.png" alt="" />
 
 ## Deployed URL:
+
+https://ahmeds226.github.io/Updated-Portfolio-Page-2/
